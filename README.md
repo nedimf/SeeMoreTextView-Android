@@ -1,5 +1,7 @@
 # SeeMoreTextView-Android
 
+### Kotlin support soon!
+
 To get SeeMoreTextView library into your build:
 
 Step 1. Add the JitPack repository to your build file
